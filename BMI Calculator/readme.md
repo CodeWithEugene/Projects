@@ -63,7 +63,7 @@ else:
      print(f"Your BMI is {bmi:.2f} which means you are obese.") # For the obese category
 ```
 # Sample Output:
-![alt text](/outputs/image.png)
+![alt text](outputs/image.png)
 
 
 ## Using Functions
@@ -115,4 +115,4 @@ if __name__ == "__main__":
      main()
 ```
 # Sample Output:
-![alt text](/outputs/image-1.png)
+![alt text](outputs/image-1.png)
