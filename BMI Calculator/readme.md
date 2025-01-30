@@ -3,9 +3,9 @@
 A BMI (Body Mass Index) calculator is a tool used to estimate body fat based on a person's weight and height. It is commonly used to categorize individuals as underweight, normal weight, overweight, or obese. Here's how you can calculate BMI:
 
 ## BMI Formula:
-\[
+$$
 \text{BMI} = \frac{\text{Weight (kg)}}{\text{Height (m)}^2}
-\]
+$$
 
 ## Steps to Calculate BMI:
 1. **Measure your weight** in kilograms (kg).
@@ -14,10 +14,9 @@ A BMI (Body Mass Index) calculator is a tool used to estimate body fat based on 
 4. **Divide your weight** by the squared height.
 
 ## Example:
-If your weight is **70 kg** and your height is **1.75 m**:
-\[
+$$
 \text{BMI} = \frac{70}{1.75 \times 1.75} = \frac{70}{3.0625} \approx 22.86
-\]
+$$
 
 ## BMI Categories:
 - **Underweight**: BMI < 18.5
